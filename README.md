@@ -2,6 +2,8 @@
 
 live url - https://calendar-app-iota-ecru.vercel.app/
 
+Note: In userdashboard the notification is a sample icon for that no navigations are there.
+
 ## Prepare Your React Project
 - Ensure your React project is ready for deployment:
 - Run npm run build to generate a production-ready build in the /build folder.
